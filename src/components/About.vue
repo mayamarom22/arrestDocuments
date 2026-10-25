@@ -17,7 +17,7 @@
       </Transition>
     </div>
   </template>
-  
+   
   <script>
   export default {
     name: "about",
